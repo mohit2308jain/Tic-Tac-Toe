@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Tic Tac Toe</string>
+    <string name="playagain">Play again</string>
+    <string name="title">Tic-Tac-Toe</string>
+    <string name="game1">GAME DRAWN</string>
+    <string name="game2">CROSS WON</string>
+    <string name="game3">CIRCLE WON</string>
+</resources>
